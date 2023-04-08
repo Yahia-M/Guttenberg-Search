@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square)](https://gitpod.io/from-referrer/)
+
 # Building a Full-Text Search App Using Docker and Elasticsearch
 
 *How does Wikipedia sort though 5+ million articles to find the most relevant one for your research?*
