@@ -1,5 +1,6 @@
 tasks:
+  - name: start up buildkitd
+    command: docker-compose build
+    openMode: tab-after
   - init: docker-compose pull
-    command: |
-    docker-compose build
-    docker-compose up
+    command: docker-compose up -d
